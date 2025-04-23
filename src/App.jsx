@@ -42,7 +42,7 @@ function App() {
 
   return (
     <>     
-        <h1 id="heading">Interactive Counter</h1>
+        <h1 id="heading">S - Interactive Counter</h1>
         <div className='parent'>
               <div id="child1">
 
